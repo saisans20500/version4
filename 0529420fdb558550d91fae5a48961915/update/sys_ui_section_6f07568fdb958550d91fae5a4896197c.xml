@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="6f07568fdb958550d91fae5a4896197c" sys_domain="global" table="x_sclo_branches_fo_branch_test" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>sai.chilamkurthi</sys_created_by>
+            <sys_created_on>2022-02-01 17:58:19</sys_created_on>
+            <sys_id>1114eb13db110950d91fae5a4896195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sclo_branches_fo_branch_test" sys_domain="global" view="Default view">6f07568fdb958550d91fae5a4896197c</sys_ui_section>
+            <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+            <sys_updated_on>2022-02-01 17:58:19</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>sai.chilamkurthi</sys_created_by>
+            <sys_created_on>2022-02-01 17:58:19</sys_created_on>
+            <sys_id>9114eb13db110950d91fae5a4896195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sclo_branches_fo_branch_test" sys_domain="global" view="Default view">6f07568fdb958550d91fae5a4896197c</sys_ui_section>
+            <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+            <sys_updated_on>2022-02-01 17:58:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>sai.chilamkurthi</sys_created_by>
+            <sys_created_on>2022-02-01 17:58:19</sys_created_on>
+            <sys_id>1514eb13db110950d91fae5a4896195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sclo_branches_fo_branch_test" sys_domain="global" view="Default view">6f07568fdb958550d91fae5a4896197c</sys_ui_section>
+            <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+            <sys_updated_on>2022-02-01 17:58:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>branch_test</element>
+            <position>3</position>
+            <sys_created_by>sai.chilamkurthi</sys_created_by>
+            <sys_created_on>2022-02-01 17:58:19</sys_created_on>
+            <sys_id>9514eb13db110950d91fae5a4896195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sclo_branches_fo_branch_test" sys_domain="global" view="Default view">6f07568fdb958550d91fae5a4896197c</sys_ui_section>
+            <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+            <sys_updated_on>2022-02-01 17:58:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>sai.chilamkurthi</sys_created_by>
+            <sys_created_on>2022-02-01 17:58:19</sys_created_on>
+            <sys_id>1914eb13db110950d91fae5a4896195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sclo_branches_fo_branch_test" sys_domain="global" view="Default view">6f07568fdb958550d91fae5a4896197c</sys_ui_section>
+            <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+            <sys_updated_on>2022-02-01 17:58:19</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>branch_test_2</element>
+            <position>5</position>
+            <sys_created_by>sai.chilamkurthi</sys_created_by>
+            <sys_created_on>2022-02-01 17:58:19</sys_created_on>
+            <sys_id>9914eb13db110950d91fae5a4896195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sclo_branches_fo_branch_test" sys_domain="global" view="Default view">6f07568fdb958550d91fae5a4896197c</sys_ui_section>
+            <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+            <sys_updated_on>2022-02-01 17:58:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>branch_50</element>
+            <position>6</position>
+            <sys_created_by>sai.chilamkurthi</sys_created_by>
+            <sys_created_on>2022-02-01 17:58:19</sys_created_on>
+            <sys_id>1d14eb13db110950d91fae5a4896195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sclo_branches_fo_branch_test" sys_domain="global" view="Default view">6f07568fdb958550d91fae5a4896197c</sys_ui_section>
+            <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+            <sys_updated_on>2022-02-01 17:58:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>branch_40</element>
+            <position>7</position>
+            <sys_created_by>sai.chilamkurthi</sys_created_by>
+            <sys_created_on>2022-02-01 17:58:19</sys_created_on>
+            <sys_id>9d14eb13db110950d91fae5a4896195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sclo_branches_fo_branch_test" sys_domain="global" view="Default view">6f07568fdb958550d91fae5a4896197c</sys_ui_section>
+            <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+            <sys_updated_on>2022-02-01 17:58:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>branch_30</element>
+            <position>8</position>
+            <sys_created_by>sai.chilamkurthi</sys_created_by>
+            <sys_created_on>2022-02-01 17:58:19</sys_created_on>
+            <sys_id>1114eb13db110950d91fae5a4896195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sclo_branches_fo_branch_test" sys_domain="global" view="Default view">6f07568fdb958550d91fae5a4896197c</sys_ui_section>
+            <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+            <sys_updated_on>2022-02-01 17:58:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>branch_test_20</element>
+            <position>9</position>
+            <sys_created_by>sai.chilamkurthi</sys_created_by>
+            <sys_created_on>2022-02-01 17:58:19</sys_created_on>
+            <sys_id>9114eb13db110950d91fae5a4896195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sclo_branches_fo_branch_test" sys_domain="global" view="Default view">6f07568fdb958550d91fae5a4896197c</sys_ui_section>
+            <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+            <sys_updated_on>2022-02-01 17:58:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>create_branch_10</element>
+            <position>10</position>
+            <sys_created_by>sai.chilamkurthi</sys_created_by>
+            <sys_created_on>2022-02-01 17:58:19</sys_created_on>
+            <sys_id>1514eb13db110950d91fae5a4896195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sclo_branches_fo_branch_test" sys_domain="global" view="Default view">6f07568fdb958550d91fae5a4896197c</sys_ui_section>
+            <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+            <sys_updated_on>2022-02-01 17:58:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>masterstring20</element>
+            <position>11</position>
+            <sys_created_by>sai.chilamkurthi</sys_created_by>
+            <sys_created_on>2022-02-02 14:42:44</sys_created_on>
+            <sys_id>4ee00cfbdb154950d91fae5a4896198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sclo_branches_fo_branch_test" sys_domain="global" view="Default view">6f07568fdb958550d91fae5a4896197c</sys_ui_section>
+            <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+            <sys_updated_on>2022-02-02 14:42:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>masterstring21</element>
+            <position>12</position>
+            <sys_created_by>sai.chilamkurthi</sys_created_by>
+            <sys_created_on>2022-02-02 14:43:00</sys_created_on>
+            <sys_id>daf00cfbdb154950d91fae5a48961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sclo_branches_fo_branch_test" sys_domain="global" view="Default view">6f07568fdb958550d91fae5a4896197c</sys_ui_section>
+            <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+            <sys_updated_on>2022-02-02 14:43:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>version3branch25</element>
+            <position>13</position>
+            <sys_created_by>sai.chilamkurthi</sys_created_by>
+            <sys_created_on>2022-02-02 14:48:27</sys_created_on>
+            <sys_id>8232887fdb154950d91fae5a489619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sclo_branches_fo_branch_test" sys_domain="global" view="Default view">6f07568fdb958550d91fae5a4896197c</sys_ui_section>
+            <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+            <sys_updated_on>2022-02-02 14:48:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>version3branch26</element>
+            <position>14</position>
+            <sys_created_by>sai.chilamkurthi</sys_created_by>
+            <sys_created_on>2022-02-02 14:48:49</sys_created_on>
+            <sys_id>1b42c87fdb154950d91fae5a4896191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sclo_branches_fo_branch_test" sys_domain="global" view="Default view">6f07568fdb958550d91fae5a4896197c</sys_ui_section>
+            <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+            <sys_updated_on>2022-02-02 14:48:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_sclo_branches_fo_branch_test</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>sai.chilamkurthi</sys_created_by>
+            <sys_created_on>2022-01-31 17:43:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f07568fdb958550d91fae5a4896197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_sclo_branches_fo_branch_test</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Branches for app dev test" source="x_sclo_branches_fo">0529420fdb558550d91fae5a48961915</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Branches for app dev test">0529420fdb558550d91fae5a48961915</sys_scope>
+            <sys_update_name>sys_ui_section_6f07568fdb958550d91fae5a4896197c</sys_update_name>
+            <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+            <sys_updated_on>2022-01-31 17:43:17</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

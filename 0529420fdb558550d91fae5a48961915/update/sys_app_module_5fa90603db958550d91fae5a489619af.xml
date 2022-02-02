@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Branches for app dev test">c3a9ca8fdb558550d91fae5a48961927</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_sclo_branches_fo_branch_test</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>sai.chilamkurthi</sys_created_by>
+        <sys_created_on>2022-01-31 16:44:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5fa90603db958550d91fae5a489619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Branches for app dev test" source="x_sclo_branches_fo">0529420fdb558550d91fae5a48961915</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Branches for app dev test">0529420fdb558550d91fae5a48961915</sys_scope>
+        <sys_update_name>sys_app_module_5fa90603db958550d91fae5a489619af</sys_update_name>
+        <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+        <sys_updated_on>2022-01-31 16:44:50</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

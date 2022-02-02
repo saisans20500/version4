@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>x_sclo_branches_fo.branch_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>sai.chilamkurthi</sys_created_by>
+        <sys_created_on>2022-01-31 16:44:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c3a9ca8fdb558550d91fae5a48961927</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Branches for app dev test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Branches for app dev test" source="x_sclo_branches_fo">0529420fdb558550d91fae5a48961915</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Branches for app dev test">0529420fdb558550d91fae5a48961915</sys_scope>
+        <sys_update_name>sys_app_application_c3a9ca8fdb558550d91fae5a48961927</sys_update_name>
+        <sys_updated_by>sai.chilamkurthi</sys_updated_by>
+        <sys_updated_on>2022-01-31 16:44:50</sys_updated_on>
+        <title>Branches for app dev test</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

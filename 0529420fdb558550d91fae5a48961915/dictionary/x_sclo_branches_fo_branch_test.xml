@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Branch Test" max_length="40" name="x_sclo_branches_fo_branch_test" sizeclass="0" type="collection">
+        <element label="branch 30" max_length="100" name="branch_30" type="string"/>
+        <element label="branch 40" max_length="100" name="branch_40" type="string"/>
+        <element label="Branch 50" max_length="100" name="branch_50" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Branch Test" max_length="40" name="branch_test" type="string"/>
+        <element label="Branch test 2" max_length="100" name="branch_test_2" type="string"/>
+        <element label="branch test 20" max_length="100" name="branch_test_20" type="string"/>
+        <element label="create branch 10" max_length="100" name="create_branch_10" type="string"/>
+        <element label="Masterstring20" max_length="100" name="masterstring20" type="string"/>
+        <element label="Masterstring21" max_length="100" name="masterstring21" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="version3branch25" max_length="100" name="version3branch25" type="string"/>
+        <element label="version3branch26" max_length="100" name="version3branch26" type="string"/>
+    </element>
+</database>
